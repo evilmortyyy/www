@@ -1,0 +1,25 @@
+	body { background: #000000; font-family: Times New Roman; color: #D5D5D5;} 
+    h1 { color: #ffffff; font-size: 20px; padding: 0px; margin-bottom: 12px; text-align:center; }
+	a {color: #D6D25F }
+	hr {color: #D5D5D5;}
+	#imp { color: #ffffff; 	font-weight: bold; text-align:center; }
+	#att {color:red; 	font-weight: bold; text-align:center;}
+	#formula { color: #ffffff;}  
+    #container { width: 960px; margin: 0 auto; background: #000; }
+    #header { background: #000; }
+    #details { float: left; width: 308px; padding: 10px; background: #000; text-align: justify;}
+	#news {float: right; width: 588px; padding: 10px 20px 10px 20px; border-left: 1px solid #D5D5D5; background: #000; text-align: justify; text-indent: 20px; word-wrap: break-word;}
+    #footer { background: #000; color: #4B4B4B; padding: 5px; }
+   .clear { clear: both; }
+   #special { color:#ffffff; font-weight: bold; text-align:center; font-size: 14px; }
+ 
+ #date {color: #818181; font-style: italic; font-size:10pt;}
+ audio
+{
+-webkit-transition:all 0.5s linear;
+-moz-transition:all 0.5s linear;
+-o-transition:all 0.5s linear;
+transition:all 0.5s linear;
+
+
+}
